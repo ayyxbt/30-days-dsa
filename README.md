@@ -1,1 +1,1 @@
-30 days DSA sprint!
+A 30-day coding challenge dedicated to mastering Data Structures and Algorithms, sharpening problem-solving skills, and building daily consistency.
